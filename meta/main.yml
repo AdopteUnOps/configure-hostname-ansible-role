@@ -1,0 +1,14 @@
+galaxy_info:
+  author: AdopteUnOps
+  description: Configure hostname based on inventory hostname
+  license: Apache
+
+  min_ansible_version: 2.2
+
+  platforms:
+   - name: Ubuntu
+
+  galaxy_tags:
+  - linux
+
+dependencies: []
